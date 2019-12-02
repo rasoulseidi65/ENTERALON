@@ -1,0 +1,65 @@
+.searchbox{
+    background-image: url("/static/images/header.jpeg");
+    height: 500px;
+   
+}
+.btn.btn-search{
+    line-height: 1;
+}
+.xx{
+    margin-top: -250px;
+    font-size: 22px;
+    
+}
+.row.container-Searchbox{
+    margin-right: 15px!important;
+    /* margin-left: 2px!important;
+    padding-right: 2px!important;
+    padding-left: 2px!important */
+}
+
+.row.filterBox{
+    background: rgba(255, 255, 255, 0.32)!important;
+    /* z-index: 999999!important;
+    position: absolute; */
+    width: 80%;
+    
+   
+}
+
+.dropdownAdvancedSearch.dropdown-menu{
+    margin-top:100%!important;
+}
+.MuiSlider-root{
+    color: red!important;
+}
+.right-searchBox.card{
+    background:rgba(1, 56, 86, 0.856)!important;
+}
+.container-Searchbox{
+ 
+    /* background: rgba(255, 255, 255, 0.32); */
+    padding-top: 150px;
+    /* margin-top: 20px; */
+}
+.line-animate{
+    height:1px;
+  width:2px;
+  border-bottom:3px solid rgb(238, 15, 15);
+  
+  -webkit-animation: increase 3s;
+  -moz-animation:    increase 3s; 
+  -o-animation:      increase 3s; 
+  animation:         increase 3s; 
+  animation-fill-mode: forwards;
+  position: absolute;
+ 
+}
+@keyframes increase {
+    0%{
+        width: 0%;
+    }
+    100% {
+        width: 100%;
+    }
+}

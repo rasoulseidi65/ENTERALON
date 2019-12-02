@@ -1,0 +1,66 @@
+{
+  "name": "myentralon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@coreui/coreui": "^2.1.16",
+    "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.3.1",
+    "@coreui/icons": "^0.4.1",
+    "@coreui/react": "^2.5.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@material-ui/core": "^4.7.0",
+    "@material-ui/icons": "^4.5.1",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "all-animation": "^2.1.3",
+    "bootstrap": "^4.4.0",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.4.5",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "express": "^4.17.1",
+    "flag-icon-css": "^3.4.5",
+    "font-awesome": "^4.7.0",
+    "mdbootstrap": "^4.10.0",
+    "mdbreact": "^4.23.0",
+    "next": "^9.1.4",
+    "next-compose-plugins": "^2.2.0",
+    "next-images": "^1.2.0",
+    "node-sass": "^4.13.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-app-polyfill": "^1.0.4",
+    "react-chartjs-2": "^2.8.0",
+    "react-dom": "^16.12.0",
+    "react-id-swiper": "2.3.2",
+    "react-router-config": "^5.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-test-renderer": "^16.12.0",
+    "reactstrap": "^8.1.1",
+    "simple-line-icons": "^2.4.1",
+    "swiper": "^5.2.1"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

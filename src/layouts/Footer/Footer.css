@@ -1,0 +1,42 @@
+.google-play{
+    height:50px!important;
+    width:140px!important;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: thin;
+}
+.fa-youtube-play{
+    color:#777777!important;
+}
+.fa-instagram{
+    color:#777777!important;
+}
+.fa-twitter{
+    color:#777777!important;
+}
+.fa-facebook-square{
+    color:#777777!important;
+}
+.fa-linkedin-square{
+    color:#777777!important;
+
+}
+.fa-pinterest{
+    color:#777777!important;
+ 
+}
+.footer-copyright{
+    background-color: #013856!important;
+    color:white!important;
+}
+.page-footer{
+    background-color: #0138568e!important;
+    /* background-image: url("/static/images/map1.png") ; */
+   background-position: center;
+    background-repeat: no-repeat; 
+    background-origin: content-box;
+   
+}
+.body-footer{
+    background-color: #013856f8!important;
+}

@@ -1,0 +1,75 @@
+*{
+    cursor: pointer;
+}
+.btn-rounded{
+    -webkit-border-radius:10em!important;
+    border-radius:10em!important;
+}
+.textNews{
+    display: inline!important;
+}
+.btn-Read-news{
+    width: 300px!important;
+    /* height: 40px!important; */
+    list-style: 1px!important;
+    font-size: 18px!important;
+}
+.btn-Read-news:hover{
+    color: white!important;
+    background-color: #cc0000!important;
+    /* font-size: 18px!important; */
+}
+.btn-find-agent{
+    width: 210px!important;
+    height: 40px!important;
+    list-style: 2px!important;
+    font-size: 18px!important;
+}
+.btn-find-agent:hover{
+    color: white!important;
+    background-color: #cc0000!important;
+    /* font-size: 18px!important; */
+}
+.socialNetworkagent{
+    color: #013856;
+}
+.text-news{
+    margin-top: -6px;
+}
+.LatestnewsTitle{
+    font-size: 30px!important;
+    display: block!important;
+    position: relative!important;
+  }
+  .mid:before{
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 0;
+      margin-top: -20px;
+      height: 2px;
+      width: 48%;
+      background-color: rgb(212, 69, 2);
+  
+  }
+  .mid:after{
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 52%;
+    margin-top: -20px;
+    height: 2px;
+    width: 50%;
+    background-color: rgb(233, 9, 9);
+  
+  }
+  .card-news.card{
+      height: 90px!important;
+  }
+  .card-news.card:hover{
+      background: #013856;
+      color: white;
+  }
+  .body-news:hover{
+    color: white!important;
+  }
